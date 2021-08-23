@@ -19,3 +19,9 @@ print(f"His teeth are usually {teeth} depending on the  coffee.")
 total = age + height + weight
 #similar to previous printing method
 print(f"If I add {age}, {height}, and {weight} I get {total}.")
+
+incm = 2.54
+lbkg = 0.45359237
+
+print("He's %f centimeters tall." % (height * incm))
+print("He's %f kilos heavy." % (weight * lbkg))

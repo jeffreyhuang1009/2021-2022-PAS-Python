@@ -29,3 +29,9 @@ print("We have", passengers, "to carpool today.")
 print("We need to put about", average_passengers_per_car,
       "in each car.")
       #this will print stuff
+
+#the variable is not defined, that's why there is the error
+#it is fine
+#ok
+#commented
+#

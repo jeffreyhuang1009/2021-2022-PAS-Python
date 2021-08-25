@@ -25,3 +25,5 @@ lbkg = 0.45359237
 
 print("He's %f centimeters tall." % (height * incm))
 print("He's %f kilos heavy." % (weight * lbkg))
+
+#it is string concatenation yay

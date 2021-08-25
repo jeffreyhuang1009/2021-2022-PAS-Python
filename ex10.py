@@ -1,6 +1,6 @@
 tabby_cat = "\tI'm tabbed in."
 persian_cat="I'm split\non a line."
-backslash_cat="I'm \\ a \\ cat."
+backslash_cat="I'm \\ \ta\t \\ cat."
 
 fat_cat = '''
 I'll do a list:
@@ -27,3 +27,6 @@ print(fat_cat)
 #\uxxxx Character with 16-bit hex value xxxx (Unicode only) \Uxxxxxxxx Character with 32-bit hex value xxxxxxxx (Unicode only) \v ASCII vertical tab (VT)
 #\ooo Character with octal value oo
 #\xhh Character with hex value hh
+#double quote and single quotes are the same
+#%s uses the str function and %r uses the repr function
+#%s is just plain text, %r is text with '' around it

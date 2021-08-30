@@ -1,3 +1,4 @@
+#
 print("How old are you?", end=" ")
 age = input()
 print("How tall are you?", end=" ")
@@ -7,7 +8,7 @@ weight = input()
 
 
 
-#another form
+#provide input and prints ' and another form
 print("How big are you?", end=" ")
 age = input()
 print("How small are you?", end=" ")

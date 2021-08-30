@@ -1,6 +1,6 @@
 tabby_cat = "\tI'm tabbed in."
 persian_cat="I'm split\non a line."
-backslash_cat="I'm \\ \ta\t \\ cat."
+backslash_cat="I'm \\\n \ta\t \\\n cat."
 
 fat_cat = '''
 I'll do a list:

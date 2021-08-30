@@ -44,3 +44,6 @@ file_again = input("> ")
 txt_again = open(file_again)
 #print what it reads
 print(txt_again.read())
+
+print ("Here's your file %r:" % filename)
+print (txt.read())

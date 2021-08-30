@@ -25,4 +25,4 @@ w = "This is the left side of..."
 e = "a string with a right side."
 
 print(w + e)
-#print w and e, string concatenation
+#print w and e, string concatenation; 2 7 14 15

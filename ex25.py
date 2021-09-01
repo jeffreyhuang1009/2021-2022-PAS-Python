@@ -34,3 +34,8 @@ def print_first_and_last_sorted(sentence):
     print_first_word(words)
     print_last_word(words)
 
+
+#1 I did the outputs, i do understand
+#2 I tried i promise
+#3 entered from ex25 import *, it works
+#4 I tried

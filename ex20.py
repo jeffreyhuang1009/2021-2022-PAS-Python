@@ -50,3 +50,7 @@ current_line += 1
 print_a_line(current_line, current_file)
 
 #+= means that variable becomes that variable + something, x=x+1 is x+=1
+
+#seek function used to change the position of the File Handle to a given specific position
+
+#drill 3, correctly used

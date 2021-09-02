@@ -23,6 +23,7 @@ line2 = input("line 2: ")
 line3 = input("line 3: ")
 
 print ("I'm going to write these to the file.")
+#study drill 3
 target.write(line1+"\n"+line2+"\n"+line3+"\n")
 
 print ("And finally, we close it.")
@@ -45,5 +46,6 @@ txt_again = open(file_again)
 #print what it reads
 print(txt_again.read())
 
+#drill 2
 print ("Here's your file %r:" % filename)
 print (txt.read())

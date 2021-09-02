@@ -8,7 +8,9 @@ weight = input()
 
 
 
-#provide input and prints ' and another form
+#provide input
+# prints '
+# another form
 print("How big are you?", end=" ")
 age = input()
 print("How small are you?", end=" ")

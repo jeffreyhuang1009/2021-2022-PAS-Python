@@ -23,4 +23,8 @@
 And I ran through terminal, so i think i did the assignment
 
 
+1. ==, !=, >=, <=, >, <, <>
+2. equal, not equal, greater or equal, les than or equal, greater than, less than, not equal
+3. yes i played with python, it's a very big snake. i got them all right
+4. i wasted paper :(((((((
 '''

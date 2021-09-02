@@ -22,13 +22,15 @@ out_file.write(indata)
 print ("Alright, all done.")
 
 out_file.close()
-
+#close open file
+#study drill 1: tried, done, deleted back to prevent confusion
 
 '''
 This  package  provides a class to manage the plugins for the import of
 tables of contents from other formats, i.e. their conversion from,  for
 example doctoc, json, etc.
 '''
+
 '''
 open(input("tofile"), 'w').write(open(input("fromfile")).read())
 '''
@@ -44,7 +46,8 @@ cat: concatenate and print files
 '''
 
 '''
-The cat utility reads files sequentially, writing them to the standard output. The file operands are processed in command-line order.
+drill5
+windows ppl: The cat utility reads files sequentially, writing them to the standard output. The file operands are processed in command-line order.
 
 '''
 

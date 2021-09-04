@@ -25,9 +25,11 @@ for i in range(0, 6):
     elements.append(i)
 '''
 elements=range(0,6)
+
 # now we can print them out too
 for i in elements:
     print ("Element was: %d" % i)
 
-#range is a sequence of numbers, from 0 by default, increments by 1 and stops before a specified number, when there are two numbers, it starts from the first number and ends before the second one
-
+#1. range is a sequence of numbers, from 0 by default, increments by 1 and stops before a specified number, when there are two numbers, it starts from the first number and ends before the second one
+#2. yes it works
+#3. extend, insert, remove, pop, count, etc

@@ -33,7 +33,6 @@ elif door == "sus":
     print ("You stare into a crowd eyeing you. In their eyes, you are very sus.")
     print ("1. Close your eyes.")
     print ("2. Leave.")
-    print ("3. Grin and wink.")
 
     sus = input("> ")
 

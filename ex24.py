@@ -23,7 +23,7 @@ def secret_formula(started):
     crates = jars / 100
     return jelly_beans, jars, crates
 
-start_point = 10000
+start_point = 1000
 beans, jars, crates = secret_formula(start_point)
 
 print("With a starting point of: %d" % start_point)
